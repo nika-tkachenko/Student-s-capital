@@ -30,3 +30,7 @@ This C++ program calculates the potential profit from selling laptops based on u
 ## Usage
 
 Compile the program and run it. Follow the prompts to input the required data.
+
+## Approximate time spent on development
+
+5 hours
